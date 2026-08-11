@@ -1,0 +1,6 @@
+barber-web/
+├── index.html        ← hlavní stránka
+├── admin.html        ← admin přihlášení
+├── style.css         ← vzhled
+├── script.js         ← rezervace
+└── ...
